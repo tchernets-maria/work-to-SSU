@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Trial App</string>
+    <string name="types_of_raw_materials">виды перерабатываемого сырья</string>
+    <string name="plastic_str">пластик</string>
+    <string name="glass_str">стекло</string>
+    <string name="waste_paper_str">макулатура</string>
+    <string name="terapak_str">тетрапак</string>
+    <string name="metal_str">металл</string>
+</resources>
